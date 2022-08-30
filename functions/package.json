@@ -21,7 +21,7 @@
     "firebase-admin": "~8.4.0",
     "firebase-functions": "^3.2.0",
     "form-data": "^2.5.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "mqtt": "^3.0.0",
     "node-fetch": "^2.6.0",
     "request": "^2.88.0",
